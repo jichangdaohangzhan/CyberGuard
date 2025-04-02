@@ -15,28 +15,33 @@ CyberGuard机场成立于2023年，作为一家IEPL专线机场，有卓越的�
 
 企业IPLC/IEPL专线线路CyberGuard机场⭐️优点⭐️
 
-✓  提供周期套餐和容量套餐，支持Shadowsocks协议节点；
-✓  超过14+ IPLC/IEPL企业内网专线线路节点，包括不限于深港专线，热备多路由，AnyCast网络，负载均衡优化；
-✓  主打香港、日本、韩国、新加坡、美国、德国、荷兰匿名和专线节点，且持续新增；
-✓  大部分节点支持Spotify，Netflix，HBO，Disney+，ChatGPT，TikTok等流媒体/OpenAI解锁；
-✓  订阅链接无需转换，全方位支持Windows，macOS，iOS以及Android客户端，
-   常用Quantumult X，ShadowRocket，Loon，Stash和Clash完美支持；
-✓  YouTube等主流国外4K、8K流媒体视频流畅播放（需自身带宽允许）；
-✓  不限制设备数量。
-✓  提供代理工具教程文档上手，提交工单回复快；
-✓  支持支付宝、微信付款。
+- 提供周期套餐和容量套餐，支持Shadowsocks协议节点；
+- 超过14+ IPLC/IEPL企业内网专线线路节点，包括不限于深港专线，热备多路由，AnyCast网络，负载均衡优化；
+- 主打香港、日本、韩国、新加坡、美国、德国、荷兰匿名和专线节点，且持续新增；
+- 大部分节点支持Spotify，Netflix，HBO，Disney+，ChatGPT，TikTok等流媒体/OpenAI解锁；
+- 订阅链接无需转换，全方位支持Windows，macOS，iOS以及Android客户端，
+- 常用Quantumult X，ShadowRocket，Loon，Stash和Clash完美支持；
+- YouTube等主流国外4K、8K流媒体视频流畅播放（需自身带宽允许）；
+- 不限制设备数量。
+- 提供代理工具教程文档上手，提交工单回复快；
+- 支持支付宝、微信付款。
 
 ## CyberGuard机场月付套餐
 
 100G | 高速套餐 月付¥18.00：  最高 300M 速率可用，IEPL企业级内网专线无视敏感时期，流媒体支持，解锁Netflix/Hbo/Disney+/Dazn等流媒体，高速稳定，不限制设备数量，请合理使用，99% 服务可用率保障，稳定可靠，可选周期 月度 | 季度 | 半年 | 年度
+
 300G | 高速套餐 月付¥50.00：最高 1000M 速率可用 ，其他同上
+
 720G | 高速套餐 月付¥72.00：最高 1000M 速率可用 ，其他同上
+
 2T | 企业套餐 月付¥200.00：最高 1000M 速率可用 ，其他同上
 
 ## CyberGuard机场不限时流量包套餐
 
 200G流量包 ¥79.00 ：一次性 IEPL企业级内网专线无视敏感时期，解锁Netflix/Hbo/Disney+/Dazn等流媒体，1000Mbps 速率可用，高速稳定，不限制设备数量，99% 服务可用率保障，稳定可靠
+
 700G流量包 ¥218.00 ：其他同上
+
 1200G流量包 ¥360.00：其他同上
 
 ![image](https://github.com/user-attachments/assets/9cd3cde6-f9c6-4b60-a3ca-af6acd64dca2)
